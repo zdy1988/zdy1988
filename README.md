@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🧑 I’m zdy
+
+⌨️ I use daily: `*.cs`, `*.xaml`, `*.vue`, `*.ts`, `*.js`, `*.html`, `*.css`, `*.sass`, `*.scss`
+
+📫 How to reach me: [Twitter](https://twitter.com/zdylacom), My blogs - [ZDY ' LOVE](https://www.zdyla.com)
+
 <!--
 **zdy1988/zdy1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
