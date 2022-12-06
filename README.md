@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 -->
 
 [![](https://github-readme-stats.vercel.app/api?username=zdy1988&show_icons=true&hide_title=true&theme=nightowl)](https://github.com/zdy1988)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zdy1988&layout=compact)
