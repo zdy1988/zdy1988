@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-    <strong>I'm a software developer from China</strong>
+    <strong>I'm a software developer from China. I like shooting, I like hiking and I like coding!</strong>
 </p>
 
 <p align='center'>
