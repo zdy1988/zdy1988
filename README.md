@@ -37,8 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-- ⌨️ I use daily: `*.cs`, `*.xaml`, `*.vue`, `*.ts`, `*.js`, `*.html`, `*.css`, `*.sass`, `*.scss`
-
-- 📫 How to reach me: [Twitter](https://twitter.com/zdylacom), My blogs - [ZDY ' LOVE](https://www.zdyla.com)
