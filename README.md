@@ -15,8 +15,6 @@
     <img alt="zdy streak" width="430" src="https://github-readme-streak-stats.herokuapp.com?user=zdy1988&theme=dark&hide_border=true"/>
 </div>
 
-[![zdy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zdy1988&theme=react-dark)](https://github.com/zdy1988/github-readme-activity-graph)
-
 <div class="container" align="center">
     <img alt="zdy top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdy1988&layout=compact&theme=dark">
     <img alt="zdy"  src="https://github-readme-stats.vercel.app/api?username=zdy1988&show_icons=true&hide_title=true&theme=nightowl">
